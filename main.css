@@ -1,0 +1,427 @@
+body {
+  background: var(--bg, #131313);
+}
+#background {
+  height: 1300px;
+
+}
+#text1 {
+  display: flex;
+
+  height: 287px;
+  text-align: center;
+  width: 900px;
+  font-size: 30px;
+
+  font-family: 'Lexend Giga', sans-serif;
+                                                
+padding-top: 150px;
+  padding-left: 600px;
+
+  color: var(--white, #fff);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+#newera{ color: var(--white, #fff);
+
+
+  font-family: 'Lexend Giga', sans-serif;
+font-size: 55px;
+position: relative;
+bottom:1100px;
+left:520px;
+width: 1000px;
+
+}
+#cy{
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+  font-size: 250px;
+  position: relative;
+  bottom:1300px;
+  left:240px;
+  width: 1000px;
+
+}
+#cyber{
+  position: relative;
+  bottom:1800px;
+  left:560px;
+height: 900px;
+  
+}
+.first{
+  height: 1400px;
+}
+
+#pic {
+
+  position: absolute;
+  right:1900px;
+top:100px
+
+}
+#pic2 {
+
+  position: absolute;
+  left:1300px;
+  top:110px;
+}
+#pic3 {
+  height: 367px;
+  width: 367px;
+  position:relative;
+  bottom:170px;
+  left:10px;
+
+}
+#char {
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+
+  font-size: 110px;
+  padding-left: 700px;
+  position: absolute;
+  top:70px;
+
+
+  
+}
+.f {
+  color: var(--violet, #99449f);
+}
+.fimage{
+    position: relative;
+    left:400px
+}
+.ffimage{
+    position: relative;
+}
+.cardsline1{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    color: white;
+    font-family: "Broken Detroit", sans-serif;
+
+}
+.cardtext{
+    color: var(--white, #FFF);
+    text-align: center;
+    font-size: 24px;
+    width: 450px;
+    font-family: 'Lexend Giga', sans-serif;
+                                                
+    
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card2{
+
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    color: white;
+    color: white;
+    font-family: "Broken Detroit", sans-serif;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-around;
+    width: 627px;
+    position: absolute;
+    bottom:840px;
+ left:660px;
+}
+#backgroundl{
+
+position: absolute;
+bottom:630px;
+left:9px;
+}
+.cardsline2{
+  display: flex;
+  justify-content: space-around;
+}
+.card4{ display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.card5{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card6{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#hist{ color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+
+  font-size: 110px;
+
+}
+.history{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+  
+
+.k{
+  height: 817px;
+  width: 820px;
+background:  lightgray 50% / cover no-repeat;
+
+  mix-blend-mode: overlay;
+
+  
+  
+ 
+}
+
+.ktext1{font-size: 20px;
+  font-family: 'Lexend Giga', sans-serif;
+color: var(--white, #FFF);
+width: 700px;
+text-align:left;
+position: absolute;
+top:4750px;
+left:1080px;
+
+}
+.ktext2{
+  font-size: 20px;
+  font-family: 'Lexend Giga', sans-serif;
+color: var(--white, #FFF);
+width: 700px;
+
+text-align:left;
+position: absolute;
+top:5600px;
+left:250px;
+
+}
+.ktext3{
+  font-size: 20px;
+  font-family: 'Lexend Giga', sans-serif;
+color: var(--white, #FFF);
+width: 700px;
+text-align:left;
+
+position: absolute;
+top:6550px;
+left:1070px;
+
+}
+.ktext4{
+  font-size: 20px;
+  font-family: 'Lexend Giga', sans-serif;
+color: var(--white, #FFF);
+width: 700px;
+text-align:left;
+
+position: absolute;
+top:7300px;
+left:250px;
+
+}
+#cardss{
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+
+  font-size: 110px;
+}
+
+  
+ .characters{
+  
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+ }
+ .number1{  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+  font-size: 30px;
+  position: relative;
+  bottom: 34px;
+  right:53px;
+
+
+
+
+
+
+ }
+ .number2{color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+  font-size: 30px;
+  position: relative;
+  right:110px;
+bottom:90px;
+ }
+ .number3{
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+  font-size: 30px;
+  position: relative;
+  right: 110px;
+  bottom:90px;
+ }
+.diamond1{
+  position: relative;
+  z-index: 2;
+  bottom:630px;
+left:330px;
+
+}
+.diamond2{
+  position: relative;
+  z-index: 2;
+  bottom:250px;
+  right:70px;
+  
+}
+.diamond3{
+  position: relative;
+  z-index: 2;
+  bottom:450px;
+  left:260px;
+}
+.grid-item{
+  border-radius: 40px;
+  height: 560px;
+  width: 400px;
+  
+}
+.charcard{height: 560px;
+  width: 400px;
+  border-radius: 40px;
+  position:relative;
+  
+  
+}
+.yazi{  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+  font-size: 30px;
+  position:relative;
+  bottom:550px;
+  left:10px;
+
+
+
+
+
+
+}
+#cardt{
+  position: relative;
+  left:200px;
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+
+  font-size: 110px;
+  width: 820px;
+  
+}
+.lp{
+  width: 800px;
+  height:1200px ;
+
+}
+
+.lastpartphotos{
+  display: flex;
+}
+.lp1{
+  width:1450px;
+}
+.lptext{
+
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+
+  font-size: 90px;
+  padding-top: 400px;
+  text-align: center;
+position: absolute;
+left:490px;
+width: 900px;
+ 
+}
+button{
+  color: var(--white, #fff);
+
+  font-family: "Broken Detroit", sans-serif;
+background-color: #99449f;
+  width:545px;
+  height: 145px;
+  border-radius: 36px;
+position: relative;
+
+font-size: 36px;
+left:670px;
+bottom: 400px;
+
+
+}
+.vector1{
+  color: #FFF;
+
+  position: relative;
+  bottom:458px;
+  left:130px;
+}
+.vector2{
+
+  position:relative;
+  bottom:450px;
+  left:544px;
+  
+}
+.vector3{
+  position: relative;
+
+  bottom:335px;
+  left:190px;
+}
+.vector4{
+  position: relative;
+
+  bottom:335px;
+  left:190px;
+}
